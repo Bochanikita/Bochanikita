@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/nikita-bocharov-175b73278/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://bochanikita.github.io./" target="_blank">
+  <a href="https://bochanikita.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/BocharovNS-%23000000?logoColor=black" alt="Twitter Badge"/>
   </a>
 </div>
